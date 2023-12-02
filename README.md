@@ -1,4 +1,4 @@
-<h1 align="center">Hey , I'm Abdullah Qaisar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
+<h1 align="center">Hey , I'm Talha Abbasi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
         width="35"></h1>
 
 ## :sassy_man: About me
